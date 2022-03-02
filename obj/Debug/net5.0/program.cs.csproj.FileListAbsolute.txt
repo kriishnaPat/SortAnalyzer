@@ -1,0 +1,16 @@
+C:\Users\k.patel61\Desktop\sortAnalyzer\program.cs\obj\Debug\net5.0\program.cs.csproj.AssemblyReference.cache
+C:\Users\k.patel61\Desktop\sortAnalyzer\program.cs\obj\Debug\net5.0\program.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k.patel61\Desktop\sortAnalyzer\program.cs\obj\Debug\net5.0\program.cs.AssemblyInfoInputs.cache
+C:\Users\k.patel61\Desktop\sortAnalyzer\program.cs\obj\Debug\net5.0\program.cs.AssemblyInfo.cs
+C:\Users\k.patel61\Desktop\sortAnalyzer\program.cs\obj\Debug\net5.0\program.cs.csproj.CoreCompileInputs.cache
+C:\Users\k.patel61\Desktop\sortAnalyzer\program.cs\bin\Debug\net5.0\program.cs.exe
+C:\Users\k.patel61\Desktop\sortAnalyzer\program.cs\bin\Debug\net5.0\program.cs.deps.json
+C:\Users\k.patel61\Desktop\sortAnalyzer\program.cs\bin\Debug\net5.0\program.cs.runtimeconfig.json
+C:\Users\k.patel61\Desktop\sortAnalyzer\program.cs\bin\Debug\net5.0\program.cs.runtimeconfig.dev.json
+C:\Users\k.patel61\Desktop\sortAnalyzer\program.cs\bin\Debug\net5.0\program.cs.dll
+C:\Users\k.patel61\Desktop\sortAnalyzer\program.cs\bin\Debug\net5.0\ref\program.cs.dll
+C:\Users\k.patel61\Desktop\sortAnalyzer\program.cs\bin\Debug\net5.0\program.cs.pdb
+C:\Users\k.patel61\Desktop\sortAnalyzer\program.cs\obj\Debug\net5.0\program.cs.dll
+C:\Users\k.patel61\Desktop\sortAnalyzer\program.cs\obj\Debug\net5.0\ref\program.cs.dll
+C:\Users\k.patel61\Desktop\sortAnalyzer\program.cs\obj\Debug\net5.0\program.cs.pdb
+C:\Users\k.patel61\Desktop\sortAnalyzer\program.cs\obj\Debug\net5.0\program.cs.genruntimeconfig.cache
